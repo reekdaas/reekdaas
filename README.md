@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rittikdaas.netlify.app](https://rittikdaas.netlify.app)
 
-- 📫 How to reach me **rittikdas7@gmail.com*
+- 📫 How to reach me **rittikdas7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
